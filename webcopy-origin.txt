@@ -1,0 +1,152 @@
+Uri: https://hotel-renovation-reconstruction.vercel.app/
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/favicon.ico
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/297-b40a510e965a4b04.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\297-b40a510e965a4b04.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/4bd1b696-be8a15fedb308229.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\4bd1b696-be8a15fedb308229.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/684-daaafd099c15f953.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\684-daaafd099c15f953.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/736-8632b9b0582473f0.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\736-8632b9b0582473f0.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/app/global-error-39b9eb08857aadcb.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\app\global-error-39b9eb08857aadcb.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/app/layout-6473835fb52a1c3a.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\app\layout-6473835fb52a1c3a.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/app/page-13247603753945b0.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\app\page-13247603753945b0.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/main-app-b8b88b0914fccdba.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\main-app-b8b88b0914fccdba.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/chunks/webpack-60d835819e29e072.js?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\chunks\webpack-60d835819e29e072.js
+Content Type: application/javascript
+
+Uri: https://hotel-renovation-reconstruction.vercel.app/_next/static/css/6e094a9ea6e33cc9.css?dpl=dpl_H6CwuZC9J1hW8WgDfcfk71RviYWy
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\_next\static\css\6e094a9ea6e33cc9.css
+Content Type: text/css
+
+Uri: https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1494790108377-be9c29b29330
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1500648767791-00dcc994a43e
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1507003211169-0a1dd7228f2d
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1517248135467-4c7edcad34c4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=600&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1552321554-5fefe8c9ef14
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=600&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1564501049412-61c2a3083791
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1573496359142-b8d87734a5a2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1582719508461-905c673771fd?w=600&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1582719508461-905c673771fd
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1590490360182-c33d57733427?w=600&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1590490360182-c33d57733427
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1600607687939-ce8a6c25118c
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=600&q=80
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\photo-1618221195710-dd6b41faaea6
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/c4546d91-7a04-47e8-933d-2d38279a65e6/generated_images/contemporary-german-hotel-building-moder-db91df1a-20251208220534.jpg
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\project-uploads\c4546d91-7a04-47e8-933d-2d38279a65e6\generated_images\contemporary-german-hotel-building-moder-db91df1a-20251208220534.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/c4546d91-7a04-47e8-933d-2d38279a65e6/generated_images/luxurious-modern-grand-hotel-lobby-after-d713a18e-20251208215427.jpg
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\project-uploads\c4546d91-7a04-47e8-933d-2d38279a65e6\generated_images\luxurious-modern-grand-hotel-lobby-after-d713a18e-20251208215427.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/c4546d91-7a04-47e8-933d-2d38279a65e6/generated_images/luxury-modern-european-boutique-hotel-fa-c0facca2-20251208220534.jpg
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\project-uploads\c4546d91-7a04-47e8-933d-2d38279a65e6\generated_images\luxury-modern-european-boutique-hotel-fa-c0facca2-20251208220534.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/c4546d91-7a04-47e8-933d-2d38279a65e6/generated_images/modern-contemporary-european-hotel-build-a47c2a24-20251208220533.jpg
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\project-uploads\c4546d91-7a04-47e8-933d-2d38279a65e6\generated_images\modern-contemporary-european-hotel-build-a47c2a24-20251208220533.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/c4546d91-7a04-47e8-933d-2d38279a65e6/generated_images/old-outdated-grand-hotel-lobby-before-re-6f577b5c-20251208215428.jpg
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\project-uploads\c4546d91-7a04-47e8-933d-2d38279a65e6\generated_images\old-outdated-grand-hotel-lobby-before-re-6f577b5c-20251208215428.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/c4546d91-7a04-47e8-933d-2d38279a65e6/generated_images/ultra-modern-european-hotel-exterior-inn-6a7ac5d5-20251208220533.jpg
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\project-uploads\c4546d91-7a04-47e8-933d-2d38279a65e6\generated_images\ultra-modern-european-hotel-exterior-inn-6a7ac5d5-20251208220533.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/scripts/orchids-browser-logs.js
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\scripts\orchids-browser-logs.js
+Content Type: text/javascript
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/scripts/route-messenger.js
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\object\public\scripts\route-messenger.js
+Content Type: text/javascript
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/572095999-1765230565150.jpg?width=8000&height=8000&resize=contain
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\render\image\public\document-uploads\572095999-1765230565150.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/587744153-1765230999869.jpg?width=8000&height=8000&resize=contain
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\render\image\public\document-uploads\587744153-1765230999869.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/587747281-1765230700464.jpg?width=8000&height=8000&resize=contain
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\render\image\public\document-uploads\587747281-1765230700464.jpg
+Content Type: image/jpeg
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/Gemini_Generated_Image_nsetiansetianset-1765231000238.png?width=8000&height=8000&resize=contain
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\render\image\public\document-uploads\Gemini_Generated_Image_nsetiansetianset-1765231000238.png
+Content Type: image/png
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/Gemini_Generated_Image_tx9x9ctx9x9ctx9x-1765230686236.png?width=8000&height=8000&resize=contain
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\render\image\public\document-uploads\Gemini_Generated_Image_tx9x9ctx9x9ctx9x-1765230686236.png
+Content Type: image/png
+
+Uri: https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/Gemini_Generated_Image_z29x4dz29x4dz29x-1765230571731.png?width=8000&height=8000&resize=contain
+File Name: C:\Downloaded Web Sites\hotel-renovation-reconstruction.vercel.app\storage\v1\render\image\public\document-uploads\Gemini_Generated_Image_z29x4dz29x4dz29x-1765230571731.png
+Content Type: image/png
+
